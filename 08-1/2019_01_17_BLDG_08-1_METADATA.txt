@@ -1,0 +1,6 @@
+[ Period ]
+- Data covers period from January 10th 2019 to January 15th 2019.
+- Appears to be date/time test and confirmation that smart reader is functional.
+
+[ Changes ]
+Record No. 1: Adjusted date to 2019-01-10 22:10:00

@@ -1,0 +1,6 @@
+[ PERIOD ]
+
+
+[ CHANGES ]
+ - Date/time all over the place. Power likely inconsistent, likely powered by a lightswitch?
+

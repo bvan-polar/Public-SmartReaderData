@@ -1,0 +1,10 @@
+[ Period ]
+ - Some ambiguity here, data collected on January 24 2019.
+
+[ Changes ]
+ - NEED to change 2000-07-31 05:57:00 to 2019-01-24 ??:??:?? to reflect collection event
+
+ - First Record changes required:
+  Start Date: Some ambiguity.
+   First record is 2000-03-26 10:57:00 OR 2000-03:30 02:47:00 (Was there a prolonged outage?)
+  End Date: 2000-07-31 05:57:00

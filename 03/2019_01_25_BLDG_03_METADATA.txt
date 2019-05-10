@@ -1,0 +1,7 @@
+[ PERIOD ]
+ - Data recovered January 25th 2019.
+
+[ CHANGES ]
+ - Fix dates to reflect accurate date/time.
+  START: 2000-04-02 16:09:00
+  END: 2000-08-03 22:31:00

@@ -1,0 +1,10 @@
+[ PERIOD ]
+ Appears to cover unknown start to end on April 3rd 2019
+
+[ CHANGES ]
+ - Date fixed on 2019-04-03 16:46:00, records after are coherent.
+   Date change occurs at Record No. 18497
+
+ - Fix data based on collection date
+  Start Date: 2000-03-05 07:20:00
+  End Date: 2019-04-03 23:36:00

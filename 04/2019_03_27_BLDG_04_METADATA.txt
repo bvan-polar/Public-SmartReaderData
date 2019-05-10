@@ -1,0 +1,7 @@
+[ PERIOD ]
+ Data recovered on March 27th 2019
+
+[ CHANGES ]
+ - Fix date/time based on collection date
+  Start Date: 2000-01-04 156:56:00
+  End Date: 2000-05-06 20:27:00

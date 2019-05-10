@@ -1,0 +1,5 @@
+[ Period ]
+ - Covers from January 10th 2019 to April 30th 2019
+
+[ Changes ]
+ - Changed Record No. 1 to 2019-01-10 22:10:00
