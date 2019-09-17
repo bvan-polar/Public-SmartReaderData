@@ -1,0 +1,18 @@
+[ Period ]
+ - No ambiguity here. All date/time records accurate via online NTP.
+ - CT Ratio detected as possible data issue.
+
+ Start Record:
+  2019-05-06 07:43:00  
+
+ End Record:
+  2019-09-07 03:48:00
+
+ - Data covers a period of 4 months, 20 hours, 5 minutes.
+
+[ Changes ]
+ - No changes to data required.
+ - Change to Smart Meter configuration however necessary to determine CT ratio accuracy.
+
+[ Conclusion ]
+ - No offset required.

@@ -1,0 +1,34 @@
+[ Period ]
+ - Some ambiguity, data collected June 25th 2019
+ - Data on smart meter appears to have been again reset to 2000.
+ - Power outages and monthly backup generator tests appear to reset the recorded date/time but not the record event
+   number.
+
+[ Changes ]
+ - NEED to change 2001-01-02 11:46:00 to 2019-06-25 13:57:00 to reflect recorded collection event date/time
+
+ - First Record changes required:
+  Start Date:
+   First record is 2000-08-31 16:02:00
+   
+  End Date:
+   Last record is 2001-01-02 11:46:00
+
+ - We don't know what the beginning date is, so we will need to offset the date/time based on the collection date
+   instead which corresponds to the date of the last record.
+
+ - Wolfram Alpha was used to compare the end date and the collection date:
+   2001-01-02 11:46:00 is 18 years, 5 months, 23 days, 2 hours and 11 minutes from the collection date.
+   Since the collection date was 2019-06-25 13:57:00
+
+ - Some ambiguity currently exists in regard to whether or not the last record collection event from the original
+   date file corresponding exactly with the record date/time of the collection print screen collection.
+
+ Note: In many of the unsanitized original collection events, bad data is stored at the very end of the log file which   has been removed from the final product. Presumably, the smart meter was still pushing data every 5 minutes but each
+  of those 5 minute records not containing anything but a record of negative one values.
+
+[ Conclusion ]
+ - All data appears to be fully intact. Consistent record keeping available for an entire five month period.
+ - Once data is refactored into a final product, individual records will need to be checked to determine if they share    values in strategic points to verify data sanity.
+  E.g compare individual record numbers from 2019-01-24_BLDG_01.csv to records in 2019-05-25_BLDG_01.csv
+   If they match, data is sane.
